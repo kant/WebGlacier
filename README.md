@@ -16,7 +16,7 @@ This is handled by either passing everything via the web server where you stick 
 
 If you don't download the client, WebGlacier will default to passing everything via the web server.
 
-#Installation
+# Installation
 
 ## Server
 
